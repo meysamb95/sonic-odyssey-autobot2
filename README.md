@@ -58,7 +58,7 @@ sudo apt update & sudo apt upgrade -y
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Theshaho/sonic-odyssey-autobot.git
+   git clone https://github.com/meysamb95/sonic-odyssey-autobot2.git
    ```
 
 2. Navigate into the project directory:
